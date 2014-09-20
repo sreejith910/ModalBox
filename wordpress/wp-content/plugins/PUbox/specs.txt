@@ -1,0 +1,37 @@
+/**start date 31-August-2014**/Ultimate Modal
+1.custom lightbox(not from fancybox or like that)
+2.Darkens background
+
+       -different background overlay colors
+          initially light red,light black,light blue
+3.Set Pop up background(set and remove)
+4.Specify pop up dimensions default 800x450
+5.supports iframe for custom pop up
+6.Preview
+7.Apply Pop up to site button 
+8.Uninstall scripts for deletiing data
+9.Implement toggle buttons(on/off)
+
+9.next build include widget for only admin screen
+
+
+
+/*Pop up specs*/
+Specify dimensions
+Background color for faded div
+Dynamic Background Color Change for faded div
+Dynamic Opcaity Change for faded div
+Enable/Disable shadow for modal
+Clicking anywhere inside the pop up closes it
+Clicking outside the pop up closes it
+Clicking anywhere on the window closes it
+Select round close button square close button
+Add custom pop up iframe 
+Choose font family like Arial, Helvetica, sans-serif and 
+Corner adjustment of modal box
+Position fixed// meaning it will move down the page, when open, if you scroll 
+Preview
+
+/**start date 31-August-2014**/
+
+day 2:plugin options page
